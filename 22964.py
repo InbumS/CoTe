@@ -13,7 +13,8 @@ for i in range(24):
         fatigue-=c
         if fatigue<0:
             fatigue=0
-        
+ 
+
 if a>m:
     print(0)
 else:
