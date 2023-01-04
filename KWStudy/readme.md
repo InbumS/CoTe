@@ -1,9 +1,8 @@
-This area is studying and store alogorithm code 
+This area is studying basic algorithm for @inbumS
 
-"""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-this git repo contained inflearn data
+this repogitory contained python code contained of inflearn data
 
-""""""""""""""""""""""""""""""""""""""""""""""""
-
-2022/12/31 ~
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+start date: 2022/12/31 ~
