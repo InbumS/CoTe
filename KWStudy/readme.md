@@ -2,7 +2,7 @@ This area is studying basic algorithm for @inbumS
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-this repogitory contained python code contained of inflearn data
+this repogitory contained python code consists of inflearn data
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
